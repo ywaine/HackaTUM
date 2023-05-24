@@ -1,5 +1,9 @@
 # HackaTUM
-TUM Hackathon project using Diffie-Helman &amp; Rockstar to enables computers to transmit cypher text/code with lyrical communications.
+### In one sentence.
+Communicating cypher text through rock lyrics to improve encryption.
 
-## Work in progress: 
+### Project details
+A TUM Hackathon project using Diffie-Helman &amp; Rockstar to enable computers to transmit encrypted messages with lyrical communications.
+
+## Disclaimer: work in progress 
 Application has no interface.
